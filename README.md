@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm Uthman Igein Bello-Imoukhuede
+- 🔭 I’m currently working on JavaScript and React
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: Kindly check my profile
+- ⚡ Fun fact: I'm a video game lover
 <!--
 **Uthmanbello/Uthmanbello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
