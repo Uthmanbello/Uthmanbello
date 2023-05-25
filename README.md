@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uthman Igein Bello-Imoukhuede</h1>
 
-<h3 align="center">Front-End web developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/Uthmanbello/setup-and-mobile)
 
