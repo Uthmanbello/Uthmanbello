@@ -2,7 +2,7 @@
 
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/Uthmanbello/setup-and-mobile)
+- 🔭 I’m currently working on [my portfolio](https://uthmanbello.github.io/portfolio/)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
