@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Uthman Igein Bello-Imoukhuede</h1>
+<h1 align="center">Hi 👋, I'm Uthman Igein Bello-Imoukhuede</h1>
 
 <h3 align="center">Full-stack Web Developer</h3>
 
@@ -9,7 +9,7 @@ I found my passion for programming at the end of 2019 and since then, I've gaine
 * 🧠  I have experience in React js, JavaScript, HTML/CSS, Ruby, Ruby on Rails, and Python
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  Also open for internship and job offers
-* 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/uthmanbelloimoukhuede" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/UthmanDeRoyale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> </p>
