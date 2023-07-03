@@ -34,7 +34,7 @@ I found my passion for programming at the end of 2019 and since then, I've gaine
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-<h3 align="left">Support Me:</h3>
+<h3 align="left">Support me:</h3>
 
 <p>Feel free to check my <a href="https://uthmanbello.github.io/portfolio/">Portfolio</a></p>
   
