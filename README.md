@@ -7,7 +7,7 @@ I found my passion for programming at the end of 2019 and since then, I've gaine
 * 🌍  I'm based in Kano, Nigeria
 * ✉️  You can contact me at [uthmanbelloimoukhuede@gmail.com](mailto:uthmanbelloimoukhuede@gmail.com)
 * 🧠  I have experience in React js, JavaScript, HTML/CSS, Ruby, Ruby on Rails, and Python
-* 🤝  I'm open to collaborating on any interesting projects
+* 🤝  I'm open to collaborating on any interesting project
 * ⚡  Also open for internship and job offers
 
 <h3 align="left">Connect with me:</h3>
